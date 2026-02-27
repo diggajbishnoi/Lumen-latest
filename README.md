@@ -91,4 +91,4 @@ This project is licensed under the [License Name] - see the [LICENSE](LICENSE) f
 
 ## Acknowledgements
 
-@anishsoni29
+@anishsoni29 @diggaj_bishnoi
